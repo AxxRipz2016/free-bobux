@@ -1,8 +1,8 @@
 ﻿{
     "version":  "2.10.1",
-    "url":  "https://dedb-104-28-223-45.ngrok-free.app/releases/Zmeika.exe",
-    "sha256":  "a3a8d1928940c7db3414c4e98bf51e1dfb3ebb4c153323d23ccd6148979e7b5d",
+    "url":  "https://clever-ghosts-slide.loca.lt/releases/Zmeika.exe",
+    "sha256":  "a53f858d0eb9ce97ca803b0057757961d610b180f8b89a9350a2db9de231da33",
     "mandatory":  false,
     "notes":  "",
-    "leaderboard":  "https://dedb-104-28-223-45.ngrok-free.app/api"
+    "leaderboard":  "https://clever-ghosts-slide.loca.lt/api"
 }
