@@ -1,8 +1,8 @@
 {
     "version":  "2.10.1",
-    "url":  "https://free-lamps-bake.loca.lt/releases/Zmeika.exe",
-    "sha256":  "6875a15ef7594e0445e9d89edd0a366f9542964551eeb4d2760b4b3f56db8b97",
+    "url":  "https://aa33-2605-e440-38-00-3a.ngrok-free.app/releases/Zmeika.exe",
+    "sha256":  "90f98960b237b25b25be6a70a13594a36d26985abb94b3065eccf36dd9c3beeb",
     "mandatory":  false,
     "notes":  "",
-    "leaderboard":  "https://free-lamps-bake.loca.lt/api"
+    "leaderboard":  "https://aa33-2605-e440-38-00-3a.ngrok-free.app/api"
 }
