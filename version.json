@@ -1,7 +1,7 @@
 {
-    "version":  "2.10.6",
+    "version":  "2.10.10",
     "url":  "https://a57d-138-124-181-113.ngrok-free.app/releases/Zmeika.exe",
-    "sha256":  "e3fcf51275a5a377bda374bb3f2b6173d9ed59b9ae6046dae65cd9c7e0aceadf",
+    "sha256":  "b52fab5b2c961049fdde0f6392dcdf5009c0c639a0276c2d6c38124ecf8fcab7",
     "mandatory":  false,
     "notes":  "",
     "leaderboard":  "https://a57d-138-124-181-113.ngrok-free.app/api"
