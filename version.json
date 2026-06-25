@@ -1,8 +1,8 @@
 {
     "version":  "2.10.12",
-    "url":  "https://kidney-corp-textile-foster.trycloudflare.com/releases/Zmeika.exe",
+    "url":  "https://viking-telescope-pub-sources.trycloudflare.com/releases/Zmeika.exe",
     "sha256":  "0243953a10c568209d742b5d3d110cae27d34b66a3e9b9919e7d144d365fd286",
     "mandatory":  false,
     "notes":  "",
-    "leaderboard":  "https://kidney-corp-textile-foster.trycloudflare.com/api"
+    "leaderboard":  "https://viking-telescope-pub-sources.trycloudflare.com/api"
 }
